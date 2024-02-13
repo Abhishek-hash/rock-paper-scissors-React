@@ -4,6 +4,12 @@
 
 -> This is only Front end game, and does not store any data to localStorage or on backend db.
 
+-> You select one from Rock, Paper, Scissors. Computer randomly select one from Rock, Paper, Scissors automatically.
+
+-> If you win, your score increases by 1, if computer wins, computer's score increases by 1. If Draw, none's score changes.
+
+-> You can reset the game and start a new session, by pressing Reset button. When reset, each one score is 0.
+
 
 -> Just open the game and play.
 
