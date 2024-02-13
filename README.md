@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+************************************ Rock-Paper-Scissors Game in React.js ****************************************
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-> This is a Fun game made using React.
+-> This is only Front end game, and does not store any data to localStorage or on backend db.
 
-## Available Scripts
 
-In the project directory, you can run:
+-> Just open the game and play.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (580)](https://github.com/Abhishek-hash/rock-paper-scissors-React/assets/54746811/b29902ef-a1f0-4491-b1d4-22c28a427715)
+![Screenshot (584)](https://github.com/Abhishek-hash/rock-paper-scissors-React/assets/54746811/c7ea4842-97ed-4269-b13c-e9eb43133e2b)
+![Screenshot (583)](https://github.com/Abhishek-hash/rock-paper-scissors-React/assets/54746811/b65ec1d1-486a-4e39-9fb7-f32b76652a2f)
+![Screenshot (582)](https://github.com/Abhishek-hash/rock-paper-scissors-React/assets/54746811/9cf60d4f-c76c-4a18-bebc-19759fcbcdd8)
+![Screenshot (581)](https://github.com/Abhishek-hash/rock-paper-scissors-React/assets/54746811/62e5ec36-df7b-4c18-9206-c812cf313083)
+![Screenshot (587)](https://github.com/Abhishek-hash/rock-paper-scissors-React/assets/54746811/9e6efd46-bf3f-4e73-acf8-87fbe161bd3c)
+![Screenshot (586)](https://github.com/Abhishek-hash/rock-paper-scissors-React/assets/54746811/cfcc63a4-da7b-4f49-a0e7-e3595e666e00)
+![Screenshot (585)](https://github.com/Abhishek-hash/rock-paper-scissors-React/assets/54746811/e9a46248-c393-4813-9b19-4fe9e92adc48)
