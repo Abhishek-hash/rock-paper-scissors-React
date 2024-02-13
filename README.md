@@ -8,7 +8,7 @@
 
 -> If you win, your score increases by 1, if computer wins, computer's score increases by 1. If Draw, none's score changes.
 
--> You can reset the game and start a new session, by pressing Reset button. When reset, each one score is 0.
+-> You can reset the game and start a new session, by pressing Reset button. When reset, each one's score is 0.
 
 
 -> Just open the game and play.
