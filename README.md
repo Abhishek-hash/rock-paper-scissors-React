@@ -1,6 +1,7 @@
 ************************************ Rock-Paper-Scissors Game in React.js ****************************************
 
 -> This is a Fun game made using React.
+
 -> This is only Front end game, and does not store any data to localStorage or on backend db.
 
 
